@@ -1,0 +1,6 @@
+name = "illuminated-book-api"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+CORPUS_URL = "https://github-project-peek.lovable.app/data/illuminated-corpus.json"
